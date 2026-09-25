@@ -1,7 +1,7 @@
 # Introduction To Cloud Security
 
 ## What is AWS?
-AWS ka full form Amazon Web Services hai. AWS Amazon ki cloud computing platform hai jo internet ke through different IT services provide karti hai. Is mein hum servers, storage, databases, networking aur security services use kar sakte hain, bina apna physical server khareede. Companies AWS ko apni websites, applications aur data ko online run aur manage karne ke liye use karti hain.
+AWS ka full form Amazon Web Services hai. AWS Amazon ki cloud computing platform hai jo internet ke through different IT services provide karti hai. Is mein hum servers, storage, databases, networking aur security services use kar sakte hain, bina apna physical server khareede. Companies AWS ko apni websites, applications aur data ko online run aur manage karne ke liye use karti hain
 
 **Example**:
 Agar kisi company ki website hai aur woh apna physical server nahi khareedna chahti, to woh AWS par EC2 virtual server use karke apni website chala sakti hai aur S3 mein files store kar sakti hai.
